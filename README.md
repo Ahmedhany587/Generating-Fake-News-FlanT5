@@ -1,6 +1,6 @@
 # Fake News Generation System
 
-## Introduction
+## Introduction 
 This project showcases the development of an advanced fake news generation system using Hugging Face's T5 model. It demonstrates the potential of AI in synthesizing misinformation, aiming to prove the viability of AI-crafted content.
 
 ## Development and Achievements
